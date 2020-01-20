@@ -1,6 +1,8 @@
 lattice
 =======
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94086e9e74ec4c4e8a65c32c2626440b)](https://www.codacy.com/app/Alexhuszagh/lattice?utm_source=github.com&utm_medium=referral&utm_content=Alexhuszagh/lattice&utm_campaign=badger)
+
 Lattice is a C++11, cross-platform HTTP library, inspired by Python's [Requests](https://github.com/kennethreitz/requests) and [C++ Requests](https://github.com/whoshuu/cpr).
 
 [![Build Status](https://travis-ci.org/Alexhuszagh/lattice.svg?branch=master)](https://travis-ci.org/Alexhuszagh/lattice)
